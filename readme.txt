@@ -1,5 +1,5 @@
 Cryptoのためのツールを作成しています．
-とりあえずpycrypto,gmpy2,pwntoolsあたりはインストールしとしといたほうが良さそう
+とりあえずpycryptodome,gmpy2,pwntoolsあたりはインストールしとしといたほうが良さそう
 
 pycrypt : pip install pycrypto
 gmpy2 : brewが必要，pip install gmpy2だとなんかうまくいかない
