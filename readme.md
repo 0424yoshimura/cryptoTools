@@ -1,8 +1,8 @@
-Cryptoのためのツールを作成しています．
+### Cryptoのためのツールを作成しています．
 
 とりあえずpycryptodome,gmpy2,pwntoolsあたりはインストールしとしといたほうが良さそう
 
-pycrypt : pip install pycrypto
+pycryptodome : pip install pycryptodome
 
 gmpy2 : brewが必要，pip install gmpy2だとなんかうまくいかない
 
