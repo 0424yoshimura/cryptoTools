@@ -1,9 +1,9 @@
 # RSA暗号
-
+```
 m : 平文 , c : 暗号文
 公開鍵(e, n)
 秘密鍵(d, n)
-
+```
 c = m^e mod n
 
 m = c^d mod n
